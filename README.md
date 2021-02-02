@@ -1,2 +1,2 @@
-# MemoryUtils
-This repository contains the implementation for fastest object pool which can be used to support zero-alloc in the hotpath.
+# MemoryAllocator
+C++ module to which allocates memory at runtime using zero-alloc pattern
